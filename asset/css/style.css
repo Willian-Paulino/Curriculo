@@ -52,6 +52,8 @@
     background: var(--primary-color);
     border-radius: 4px;
     transition: all 1s;
+    padding-left: 8px;
+    cursor: pointer;
 }
 
 .skills__divider{
